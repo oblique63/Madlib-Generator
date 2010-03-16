@@ -8,7 +8,7 @@ USAGE:
     run the script 'madlib.py' in the command line and pass it a madlib file; 
     ex: $ python madlib.py input_file
     
-    Madlib files can have multiple madlibs, thus in the madlibs in each file must be seperated by an empty line. To denote the spaces that are to be filled-in by the players of your madlib, surround each space with curly braces ("{" and "}"), and place the type of word that is to be filled-in within the braces.
+    Madlib files can have multiple madlibs, thus each madlib must be seperated by an empty line. To denote the spaces that are to be filled-in by the players of your madlib, surround each space with curly braces ("{" and "}"), and place the type of word that is to be filled-in within the braces.
     ex: I feel {Adjictive} today.
     
     A test madlib file is included with the script for demonstration purposes.* 
